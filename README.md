@@ -41,3 +41,6 @@ rzap.NewGlobalLogger([]zapcore.Core{
 zap.L().Info("some info message", zap.Int("status", 0))   // only output to /path/to/info.log
 zap.L().Error("some error message", zap.Int("status", 1)) // only output to /path/to/error.log
 ```
+
+# Credit
+All credit to winking324, forking for archival purposes
