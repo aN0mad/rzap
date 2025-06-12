@@ -1,4 +1,4 @@
-module github.com/winking324/rzap
+module github.com/aN0mad/rzap
 
 go 1.17
 
